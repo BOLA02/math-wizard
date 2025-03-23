@@ -1,6 +1,6 @@
 # Math-Magicians
 
-Math Magicians is a calculator app built with React.
+Math Wizard is a calculator app built with React.
 
 ## Built With
 
@@ -11,7 +11,7 @@ Math Magicians is a calculator app built with React.
 To get a local copy up and running follow these simple steps.
 
 ## Live Demo
-- [Heroku Demo](https://mathmagicapp.herokuapp.com/)
+
 - [Netifly Demo](https://inspiring-medovik-37d3b3.netlify.app)
 
 ### Prerequisites
@@ -23,10 +23,10 @@ To get a local copy up and running follow these simple steps.
 ### Setup
 
 - With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Math-Magicians/archive/refs/heads/feature/setup.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+
 
 ```
-git clone https://github.com/shaqdeff/Math-Magicians.git
+git clone https://github.com/BOLA02/Math-Magicians.git
 ```
 
 - Once the files are on your machine, open the **Math-Magicians** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -38,20 +38,8 @@ git clone https://github.com/shaqdeff/Math-Magicians.git
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **KAMEEL BOLATITO**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@BOLA02](https://github.com/BOLA02)
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse.
